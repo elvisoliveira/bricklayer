@@ -1,0 +1,32 @@
+{
+  "name": "bricklayer",
+  "version": "1.0.0",
+  "description": "Let's put some bricks in our world!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvisoliveira/bricklayer.git"
+  },
+  "author": "Elvis Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvisoliveira/bricklayer/issues"
+  },
+  "homepage": "https://github.com/elvisoliveira/bricklayer#readme",
+  "dependencies": {
+    "@angular/common": "^4.0.1",
+    "@angular/compiler": "^4.0.1",
+    "@angular/core": "^4.0.1",
+    "@angular/forms": "^4.0.1",
+    "@angular/http": "^4.0.1",
+    "@angular/platform-browser": "^4.0.1",
+    "@angular/platform-browser-dynamic": "^4.0.1",
+    "@angular/router": "^4.0.1",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.3.0",
+    "zone.js": "^0.8.5"
+  }
+}
